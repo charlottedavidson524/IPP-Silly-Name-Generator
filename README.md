@@ -1,2 +1,2 @@
-# Impractical-Python-Projects
-Working through 'Impractical Python Projects'
+# IPP-Silly-Name-Generator
+Working through 'Impractical Python Projects'. Chapter One: Silly Name Generator
