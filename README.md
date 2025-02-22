@@ -10,4 +10,4 @@ Working through 'Impractical Python Projects'. Chapter One: Silly Name Generator
 
 ## Added Value 
 * Became familiar with black for code formatting.
-* developed understanding of if __name__ == "__main__": 
+* Developed understanding of if __name__ == "__main__": 
